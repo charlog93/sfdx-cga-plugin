@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sfdx-cga": {
+      "command": "npx",
+      "args": ["-y", "sfdx-cga-plugin", "--stdio"],
+      "env": {
+        "SF_TARGET_ORG": ""
+      }
+    }
+  }
+}

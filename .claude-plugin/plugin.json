@@ -1,0 +1,9 @@
+{
+  "name": "sfdx-cga-plugin",
+  "version": "1.0.0",
+  "description": "Plugin Claude Code pour Salesforce - MCP server avec Reports, Kanban, Debug Logs, SOQL, Apex, Documents",
+  "author": { "name": "CGA" },
+  "repository": "https://github.com/charlog93/sfdx-cga-plugin",
+  "license": "MIT",
+  "keywords": ["claude-code", "salesforce", "mcp", "soql", "apex"]
+}

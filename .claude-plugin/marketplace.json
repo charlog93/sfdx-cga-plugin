@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sfdx-cga-plugin",
+  "owner": { "name": "CGA" },
+  "plugins": [
+    {
+      "name": "sfdx-cga-plugin",
+      "source": "./",
+      "version": "1.0.0",
+      "category": "integration"
+    }
+  ]
+}
